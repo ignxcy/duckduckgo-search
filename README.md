@@ -1,19 +1,13 @@
-## Brave Search
+## duckduckgo-search
 
-An efficient (and the fastest) way to search the web privately using Brave Search Engine. _Not affiliated with Brave Search._ Tested on Chrome, Edge, and Chromium (official builds).
+#### This is a fork of https://github.com/jishanshaikh4/brave-search!!!
 
-## Install Extension
-
-#### Method 1:
-
-Download `brave-search.crx` file from the `/releases` folder and open it with Chrome to install it directly.
-
-#### Method 2 (Recommended):
+## Install Extension:
 
 - Clone the repository:
 
 ```
-git clone https://github.com/jishanshaikh4/brave-search.git
+git clone https://github.com/ignxcy/duckduckgo-search.git
 ```
 
 - Go to Chrome (or any Chromium based browser) > Settings > Extensions, OR type `chrome://extensions` in the URL bar
@@ -22,6 +16,4 @@ git clone https://github.com/jishanshaikh4/brave-search.git
 
 ### How to use it?
 
-Type 'br' and a space (or a TAB) with the term to search with Brave Search Engine.
-
-![assets/sample.gif](assets/sample.gif)
+Type 'duck' and a space (or a TAB) with the term to search with DuckDuckGo search engine.
