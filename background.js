@@ -4,8 +4,7 @@
 
 chrome.omnibox.onInputEntered.addListener((text) => {
   var newURL =
-    "https://search.brave.com/search?q=" +
-    encodeURIComponent(text) +
-    "&source=web";
+    "https://duckduckgo.com/?q=" +
+    encodeURIComponent(text);
   chrome.tabs.create({ url: newURL });
 });
