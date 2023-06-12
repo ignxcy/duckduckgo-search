@@ -14,10 +14,10 @@
   },
   "action": {
     "default_icon": {
-      "duck": "assets/duckduckgo.png"
+      "64": "assets/duckduckgo.png"
     }
   },
   "icons": {
-    "duck": "assets/duckduckgo.png"
+    "64": "assets/duckduckgo.png"
   }
 }
